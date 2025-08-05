@@ -139,16 +139,11 @@ Open your browser and navigate to `http://localhost:8501`.
 ## 🧑‍💻 Author
 
 **Reddy Santosh Kumar**  
-AI/ML Enthusiast | Full Stack Dev | [LinkedIn](https://www.linkedin.com/in/santosh-reddy-kumar)  
+AI/ML Enthusiast | Full Stack Dev | [LinkedIn](https://www.linkedin.com/in/reddy-santosh-kumar-a5b9622a2/)  
 Part of the #10Weeks10Projects initiative – Week 8 Project
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgements
 
