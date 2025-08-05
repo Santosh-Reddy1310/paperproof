@@ -138,7 +138,7 @@ Open your browser and navigate to `http://localhost:8501`.
 
 ## 🧑‍💻 Author
 
-**Santosh Reddy Kumar**  
+**Reddy Santosh Kumar**  
 AI/ML Enthusiast | Full Stack Dev | [LinkedIn](https://www.linkedin.com/in/santosh-reddy-kumar)  
 Part of the #10Weeks10Projects initiative – Week 8 Project
 
