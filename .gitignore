@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+venv/
+.env
+.pytest_cache/
+
+# API Keys & Secrets
+*.env
+*.key
+secrets.json
+config_secrets.py
+
+# Streamlit
+.streamlit/
+data/
+
+# OS & Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output Files
+*.pdf
+*.docx
+*.log
+*.cache
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual Environment (Python)
+.env/
+env/
+ENV/
+
+# System
+Thumbs.db
