@@ -59,7 +59,7 @@ def main():
     initialize_session_state()
     
     # Header
-    st.markdown('<h1 class="main-header">🔬 Research Paper Generator (Gemini)</h1>', 
+    st.markdown('<h1 class="main-header">🔬 Paper-Proof </h1>', 
                 unsafe_allow_html=True)
     st.markdown("Generate comprehensive academic research papers using Google's Gemini API")
     
